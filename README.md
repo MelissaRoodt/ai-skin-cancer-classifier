@@ -41,10 +41,10 @@ We trained the model over 20 epochs, using the TensorBoard callback to log train
 
 **Training Observations**: Loss and accuracy plots showed a consistent improvement over epochs as seen in Figures 1 and 2.
 
-- ![Alt text](/Resources/loss.jpg?raw=true "Dashboard")
-- **Figure 1**: Model Loss
-- ![Alt text](/Resources/acc.jpg?raw=true "Dashboard")
-- **Figure 2**: Model Accuracy
+![Alt text](/Resources/loss.jpg?raw=true "Dashboard")
+**Figure 1**: Model Loss
+![Alt text](/Resources/acc.jpg?raw=true "Dashboard")
+**Figure 2**: Model Accuracy
 
 # Model Evaluation and Testing
 
